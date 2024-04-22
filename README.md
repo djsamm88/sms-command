@@ -138,3 +138,4 @@ And finally, [sm.ms](https://sm.ms) for hosting images used in this page.
 - [via UnionPay (中国银联云闪付)](https://get.telegram-sms.com/donate/unionpay)
 
 Your donation will make me work better for this project.
+# sms-command
